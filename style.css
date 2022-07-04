@@ -1,0 +1,37 @@
+body {
+    font-family: 'Lato', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.section-one {
+    display: flex;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+
+}
+
+.orange-color {
+    color: tomato;
+}
+
+.half-one {
+    width: 50%;
+    padding-left: 20px;
+}
+
+.half-one img {
+    width: 70%;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.add-button {
+    text-decoration: none;
+    padding: 10px 20px;
+    background-color: orange;
+    color: white;
+    border-radius: 5px;
+}
